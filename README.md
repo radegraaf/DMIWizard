@@ -10,3 +10,8 @@ Details about basic operations can be found in the manual, located in .../DMIWiz
 A short introduction video can be found on the Yale MRRC website (https://medicine.yale.edu/lab/dmi/education/videos/).
 DMIWizard is continuously under development and comments on bugs and improvements are greatly appreciated.
 Please contact Robin de Graaf (robin.degraaf@yale.edu) with questions, comments or requests.
+
+DMIWizard can be acknowledged by citing the GitHub page, the Yale MRRC DMI website and/or the following publication:
+Henk M De Feyter, Kevin L Behar, Zachary A Corbin, Robert K Fulbright, Peter B Brown, Scott McIntyre, Terence W Nixon, Douglas L Rothman, Robin A de Graaf
+Deuterium metabolic imaging (DMI) for MRI-based 3D mapping of metabolism in vivo
+Sci Adv 4(8):eaat7314 (2018) doi: 10.1126/sciadv.aat7314
